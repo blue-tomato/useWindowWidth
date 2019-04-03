@@ -1,0 +1,16 @@
+{
+  "name": "useWindowWith",
+  "version": "0.0.1",
+  "description": "A react hook to have access to the current with of the browser window in your react component.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "react": "^16.8.0",
+    "react-dom": "^16.8.0"
+  },
+  "keywords": [],
+  "author": "Manuel Penaloza <manuel.penaloza@blue-tomato.com>",
+  "license": "MIT"
+}
