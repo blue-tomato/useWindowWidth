@@ -1,4 +1,4 @@
-This react hook exposes the current window width to our react component.
+This react hook exposes the current window width to our react component. It also considers window resizing.
 
 ## Installation
 
