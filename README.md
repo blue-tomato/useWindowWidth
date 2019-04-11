@@ -2,14 +2,16 @@ This react hook exposes the current window width to our react component. It also
 
 ## Installation
 
-tba once published on npm
+```markdown
+npm install hook-usewindowwidth
+```
 
 ## Example
 
 ```javascript
 import React from 'react';
 import ReactDOM from 'react-dom';
-import useWindowWidth from 'useWindowWidth';
+import useWindowWidth from 'hook-usewindowwidth';
 
 const DisplayWindowWidth = () => {
     const windowWidth = useWindowWidth();
